@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Moulindu Saha and I'm a Software Developer studying Enginering</h3>
+<h3 align="left">Hi My name is Moulindu Saha and I'm a Software Engineer</h3>
 
 ###
 
